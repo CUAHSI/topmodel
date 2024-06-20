@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+abstract: "This is an example repository for the FAIR principles using Topmodel as an example"
+authors:
+  - name: "CUAHSI"
+date-released: "2024-06-22"
+identifiers:
+  - description: "DOI of the current version- this has not been created yet so will have a dummy number for showcase"
+    type: doi
+    value: 10.5281/zenodo.1003150
+keywords:
+  - "FAIR4RS"
+  - "FAIR"
+license: GPL-2.0
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/CUAHSI/topmodel?tab=License-1-ov-file"
+title: "TOPMODEL FAIR Example Repository"
+version: 0.0.1
+
+
+
