@@ -9,17 +9,15 @@ git checkout docker
 
 ### Build the Docker Image
 ```console
-docker build -f docker/Dockerfile -t topmodel-r .
+docker build --no-cache -f docker/Dockerfile -t topmodel-r .
 ```
 
 ### Run the Docker Container
 ```console
 docker run --rm topmodel-r
-
 ```
 
 ### Docker shell commands
 ```console
 docker run -it topmodel-r /bin/bash
-
 ```
